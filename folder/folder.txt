@@ -5,3 +5,4 @@ folder test
 22222222
 merge test2
 merge test3
+updata-dev-from master test4
